@@ -790,10 +790,10 @@ Email - example@example.com
 <img src="MEDIA/g1.gif" />
 ```
 
-<img src="http://shields.dvurechensky.pro/badge/theultimatemarkdowncheatsheet-brightgreen.svg" alt="Зеленая кнопка с текстом 'theultimatemarkdowncheatsheet', написанным белыми буквами."/>
+<img src="https://shields.dvurechensky.pro/badge/theultimatemarkdowncheatsheet-brightgreen.svg" alt="Зеленая кнопка с текстом 'theultimatemarkdowncheatsheet', написанным белыми буквами."/>
 
 ```md
-<img src="http://shields.dvurechensky.pro/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
+<img src="https://shields.dvurechensky.pro/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
 ```
 
 [![BinaryTree](MEDIA/i6.png)](#)
@@ -813,10 +813,10 @@ Email - example@example.com
 # Значки
 
 ```md
-![Gitea forks](http://shields.dvurechensky.pro/gitea/forks/dvurechensky_pro/%20Math_Markdown)
+![Gitea forks](https://shields.dvurechensky.pro/gitea/forks/dvurechensky_pro/%20Math_Markdown)
 ```
 
-![Gitea forks](http://shields.dvurechensky.pro/gitea/forks/dvurechensky_pro/%20Math_Markdown)
+![Gitea forks](https://shields.dvurechensky.pro/gitea/forks/dvurechensky_pro/%20Math_Markdown)
 
 # Списки
 
