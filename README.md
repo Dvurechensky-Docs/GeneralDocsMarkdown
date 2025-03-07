@@ -1,3 +1,4 @@
+<p align="center">✨Dvurechensky✨</p>
 <h1 align="center">
   ⚫Шпаргалка по Markdown⚫
 </h1>
@@ -1155,3 +1156,4 @@ https://www.dvurechensky.pro/dvurechensky_pro/GITEA_Integrated/issues/1
 
 <kbd> [Жми эту кнопку](OTHER.md) ↗️ </kbd>
 ---
+<p align="center">✨Dvurechensky✨</p>
