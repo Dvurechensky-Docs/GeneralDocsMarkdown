@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 # Руководство по взносам
 
 1. Форк репо
@@ -78,3 +80,5 @@
    git checkout master
    git pull
    ```
+
+<p align="center">✨Dvurechensky✨</p>

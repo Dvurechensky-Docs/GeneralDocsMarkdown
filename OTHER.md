@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 - [Разное](#разное)
   - [Комментарии](#комментарии)
   - [Исключение символов в формате Markdown](#исключение-символов-в-формате-markdown)
@@ -144,3 +146,4 @@ Or
 7. Markdownlint - [markdownlint](https://github.com/DavidAnson/markdownlint), [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2), [markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action), [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 ---
+<p align="center">✨Dvurechensky✨</p>
