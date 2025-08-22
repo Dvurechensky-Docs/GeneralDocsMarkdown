@@ -419,3 +419,29 @@
 	async
 	src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 ></script>
+<!-- Mermaid -->
+<script
+	defer
+	src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"
+></script>
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
+		// Превращаем ```mermaid в <div class="mermaid">, иначе многие темы оставляют <pre><code class="language-mermaid">
+		document
+			.querySelectorAll('pre code.language-mermaid, pre code.mermaid')
+			.forEach(code => {
+				const pre = code.parentElement
+				const wrapper = document.createElement('div')
+				wrapper.className = 'mermaid'
+				wrapper.textContent = code.textContent.trim()
+				pre.replaceWith(wrapper)
+			})
+
+		if (window.mermaid) {
+			mermaid.initialize({
+				startOnLoad: true,
+				securityLevel: 'loose', // позволяет встроенные стили/ссылки внутри диаграмм
+			})
+		}
+	})
+</script>
