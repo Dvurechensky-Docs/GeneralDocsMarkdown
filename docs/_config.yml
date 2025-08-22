@@ -10,3 +10,6 @@ paginate: 5
 collections:
   categories:
     output: true
+markdown: kramdown
+kramdown:
+  parse_block_html: true
